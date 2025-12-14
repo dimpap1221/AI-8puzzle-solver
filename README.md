@@ -15,3 +15,8 @@ The solver implements two algorithms:
 
 - **Uniform Cost Search (UCS)**
 - **A* Search** using an admissible heuristic
+
+
+## Contributors
+- **Georgios Kefalas**
+- **Dimitrios Papadopoulos**
